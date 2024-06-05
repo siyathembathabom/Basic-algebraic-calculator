@@ -1,2 +1,2 @@
 # Basic-algebraic-calculator
-A basic calculator.
+A basic algebraic calculator.
